@@ -1,1 +1,1 @@
-runtime indent/groovy.vim
+runtime indent/c.vim
